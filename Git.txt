@@ -1,0 +1,5 @@
+1. git clone <path> 			Creates a clone at this location
+2. git checkout -b firstBranch		Creates a new branch 
+3. git status
+4. git add <file>			To track files
+5. git commit 
