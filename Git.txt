@@ -55,7 +55,7 @@ Commands Practiced::
    git commit -m "commit message"	To specify commit message
 6. git branch				Lists even the local branches
 7. git push -u origin <branch>		Pushes a new local branch to a remote Git repository and tracks it too
-   git push 				Publishes your local commits; With this, we can view the changes on github website.
+   git push 				(Local to remote - same branch) Publishes your local commits; With this, we can view the changes on github website.
 8. git diff				To view the changes yet to be staged... "add" command, if used, will stage these changes.
 9. 
  
