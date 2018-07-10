@@ -51,4 +51,5 @@ Commands Practiced::
 5. git commit 				Records changes to the repository in the local branch
 6. git branch				Lists even the local branches
 7. git push -u origin <branch>		Pushes a new local branch to a remote Git repository and tracks it too
+   git push 				Publishes your local commits
 8. 
