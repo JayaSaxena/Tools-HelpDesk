@@ -1,3 +1,5 @@
+https://github.com/git/git/blob/master/Documentation/git-diff.txt
+
 git --help
 usage: git [--version] [--help] [-C <path>] [-c name=value]
            [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
@@ -49,7 +51,11 @@ Commands Practiced::
 3. git status
 4. git add <file>			To track files; Adds file contents to the index
 5. git commit 				Records changes to the repository in the local branch
+   git commit -a 			To automatically "add" changes to all tracked files and also to commit them all
+   git commit -m "commit message"	To specify commit message
 6. git branch				Lists even the local branches
 7. git push -u origin <branch>		Pushes a new local branch to a remote Git repository and tracks it too
    git push 				Publishes your local commits
-8. 
+8. git diff				To view the changes yet to be staged... "add" command, if used, will stage these changes.
+9. 
+ 
