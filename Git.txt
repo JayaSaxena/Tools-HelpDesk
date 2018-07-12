@@ -46,7 +46,8 @@ to read about a specific subcommand or concept.
 
 Commands Practiced::
 1. git clone <path> 			Creates a clone at this location
-2. git checkout -b firstBranch		Creates a new branch locally.. this branch will be visible from github page, only after "push -u origin" command 
+2. git checkout -b firstBranch		Creates a new branch locally.. 
+                                        this branch will be visible from github page, only after "push -u origin" command 
    git checkout <branch>		Switch branches or restores working tree files
 3. git status
 4. git add <file>			To track files; Adds file contents to the index
